@@ -1,0 +1,21 @@
+# Ignore virtual environments
+.venv/
+venv/
+__pycache__/
+
+# Ignore environment files
+.env
+
+# Ignore git
+.git/
+.gitignore
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore lock files (dependencies are in requirements.txt)
+uv.lock
+
+# Ignore Python version file
+.python-version
