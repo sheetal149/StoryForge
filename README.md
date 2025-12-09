@@ -108,6 +108,12 @@ Deploy directly to Google Cloud Run (requires [Google Cloud CLI](https://cloud.g
 gcloud run deploy storyforge --source . --port 8080 --allow-unauthenticated
 ```
 
-## 🤝 Contributing
+<img width="957" height="533" alt="Screenshot 2025-12-06 020952" src="https://github.com/user-attachments/assets/165e1842-d283-4e53-9164-cf18de86049a" />
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+<img width="1918" height="1065" alt="Screenshot 2025-12-06 021312" src="https://github.com/user-attachments/assets/5c57a310-a592-4146-8d17-73da74723a67" />
+
+<img width="1917" height="1071" alt="Screenshot 2025-12-06 021332" src="https://github.com/user-attachments/assets/ff97e20f-fc77-4d64-8136-22c7f1a34905" />
+
+
+
+
